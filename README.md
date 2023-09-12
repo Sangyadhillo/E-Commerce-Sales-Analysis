@@ -2,11 +2,11 @@
 
 # **Introduction** 
 e-Commerce domain
-1.The dataset consists of transactional data with customers in different countries who make purchases from an online retail company based in the United Kingdom (UK).
-2.Company: UK-based and online retail
-3.Products for selling: Mainly all-occasion gifts
-4.Customers: Most are wholesalers (local or international)
-5.Transactions Period Data : From 1st Dec 2010 to 9th Dec 2011 (One year)
+1. The dataset consists of transactional data with customers in different countries who make purchases from an online retail company based in the United Kingdom (UK).
+2. Company: UK-based and online retail
+3. Products for selling: Mainly all-occasion gifts
+4. Customers: Most are wholesalers (local or international)
+5. Transactions Period Data : From 1st Dec 2010 to 9th Dec 2011 (One year)
 
 
 # **Understanding requirements:**
